@@ -10,8 +10,8 @@ const shouldNotRestockProduct = {
     price: 10.0,
     stock: 5,
     min_stock: 2,
-    created_at: '2023-10-30TT00:00:00.000Z',
-    updated_at: '2023-10-30TT00:00:00.000Z',
+    created_at: "2023-10-30T14:14:01.390Z",
+    updated_at: "2023-10-30T14:14:01.390Z",
     shouldRestock: 'no',
   };
 const shouldRestockProduct = {
@@ -20,8 +20,8 @@ const shouldRestockProduct = {
     price: 6.5,
     stock: 5,
     min_stock: 10,
-    created_at: "2023-10-30TT00:00:00.000Z",
-    updated_at: "2023-10-30TT00:00:00.000Z",
+    created_at: "2023-10-30T14:14:01.390Z",
+    updated_at: "2023-10-30T14:14:01.390Z",
     shouldRestock: 'yes',
 };
 const shouldShortlyStockProduct = {
@@ -30,8 +30,8 @@ const shouldShortlyStockProduct = {
     price: 5.5,
     stock: 5,
     min_stock: 5,
-    created_at: "2023-10-30TT00:00:00.000Z",
-    updated_at: "2023-10-30TT00:00:00.000Z",
+    created_at: "2023-10-30T14:14:01.390Z",
+    updated_at: "2023-10-30T14:14:01.390Z",
     shouldRestock: 'shortly',
 };
 
